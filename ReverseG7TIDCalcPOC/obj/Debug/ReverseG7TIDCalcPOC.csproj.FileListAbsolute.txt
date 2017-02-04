@@ -1,0 +1,12 @@
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.exe.config
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.exe
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.pdb
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.csprojResolveAssemblyReference.cache
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.exe
+D:\GitRoC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.pdb
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.exe.config
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.exe
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.pdb
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.exe
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\bin\Debug\ReverseG7TIDCalcPOC.pdb
+D:\GitRoC\Reverse-G7TID-Calculator\ReverseG7TIDCalcPOC\obj\Debug\ReverseG7TIDCalcPOC.csprojResolveAssemblyReference.cache
