@@ -34,7 +34,7 @@ namespace ReverseG7TIDCalcPOC
             {
                 i_SID = 0;
 
-                while (i_SID < 65535)
+                while (i_SID < 65535 && !matchFound)
                 {
                     final = i_TID + (i_SID * 65536) % 1000000;
 
